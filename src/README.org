@@ -1,0 +1,7 @@
+Shop app from the Angular tutorial (https://angular.io/start).
+
+- ~npm install -g @angular/cli~
+- cd repo/folder
+- ~npm install~
+- ~ng serve~ (by default on port 4200. To specifiy use the port flag:
+  ~--port 4201~)
